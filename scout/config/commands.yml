@@ -1,0 +1,208 @@
+# scout/config/commands.yml
+
+commands:
+  AFRICOM:
+    name: United States Africa Command
+    type: geographic
+    url: https://www.africom.mil/
+    established: 2007
+    area_of_responsibility: "Africa (excluding Egypt)"
+    content:
+      posture_statements:
+        - year: 2023
+          url: https://www.africom.mil/document/35173/africom-cleared-fy24-sasc-posture-hearing-16-mar-2023pdf
+
+        - year: 2022
+          url: https://www.armed-services.senate.gov/imo/media/doc/AFRICOM%20FY23%20Posture%20Statement%20%20ISO%20SASC%2015%20MAR%20Cleared.pdf
+
+      history:
+        url: https://www.africom.mil/about-the-command/history-of-us-africa-command
+      press_releases:
+        url: https://www.africom.mil/media-gallery/press-releases
+        rss: https://www.africom.mil/syndication-feed/rss/press-releases
+      news:
+        url: https://www.africom.mil/media-gallery/articles
+        rss: https://www.africom.mil/syndication-feed/rss/articles
+
+      leadership_bios:
+        - role: Commander
+          url: https://www.africom.mil/about-the-command/leadership/commander
+
+        - role: Deputy Commander
+          url: https://www.africom.mil/about-the-command/leadership/deputy-commander
+
+        - role: Chief of Staff
+          url: https://www.africom.mil/about-the-command/leadership/headquarters-chief-of-staff
+
+        - role: Senior Enlisted Leader
+          url: https://www.africom.mil/about-the-command/leadership/command-senior-enlisted-leader
+
+  CENTCOM:
+    name:
+    type: geographic
+    content:
+      posture_statement:
+      history:
+      press_releases:
+      news:
+      bios:
+        commander:
+
+        deputy_commander:
+
+        chief_of_staff:
+
+        senior_enlisted:
+
+  EUCOM:
+    name:
+    type: geographic
+    content:
+      posture_statement:
+      history:
+      press_releases:
+      news:
+      bios:
+        commander:
+
+        deputy_commander:
+
+        chief_of_staff:
+
+        senior_enlisted:
+
+  INDOPACOM:
+    name:
+    type: geographic
+    content:
+      posture_statement:
+      history:
+      press_releases:
+      news:
+      bios:
+        commander:
+
+        deputy_commander:
+
+        chief_of_staff:
+
+        senior_enlisted:
+
+  NORTHCOM:
+    name:
+    type: geographic
+    content:
+      posture_statement:
+      history:
+      press_releases:
+      news:
+      bios:
+        commander:
+
+        deputy_commander:
+
+        chief_of_staff:
+
+        senior_enlisted:
+
+  SOUTHCOM:
+    name:
+    type: geographic
+    content:
+      posture_statement:
+      history:
+      press_releases:
+      news:
+      bios:
+        commander:
+
+        deputy_commander:
+
+        chief_of_staff:
+
+        senior_enlisted:
+
+  SPACECOM:
+    name:
+    type: geographic
+    content:
+      posture_statement:
+      history:
+      press_releases:
+      news:
+      bios:
+        commander:
+
+        deputy_commander:
+
+        chief_of_staff:
+
+        senior_enlisted:
+
+  CYBERCOM:
+    name:
+    type: functional
+    content:
+      posture_statement:
+      history:
+      press_releases:
+      news:
+      bios:
+        commander:
+
+        deputy_commander:
+
+        chief_of_staff:
+
+        senior_enlisted:
+
+  SOCOM:
+    name:
+    type: functional
+    content:
+      posture_statement:
+      history:
+      press_releases:
+      news:
+      bios:
+        commander:
+
+        deputy_commander:
+
+        chief_of_staff:
+
+        senior_enlisted:
+
+  STRATCOM:
+    name:
+    type: functional
+    content:
+      posture_statement:
+      history:
+      press_releases:
+      news:
+      bios:
+        commander:
+
+        deputy_commander:
+
+        chief_of_staff:
+
+        senior_enlisted:
+
+  TRANSCOM:
+    name:
+    type: functional
+    content:
+      posture_statement:
+      history:
+      press_releases:
+      news:
+      bios:
+        commander:
+
+        deputy_commander:
+
+        chief_of_staff:
+
+        senior_enlisted:
